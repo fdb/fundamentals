@@ -129,6 +129,4 @@ void TreesMain() {
 	PrintTreeNode(root.SearchBreadthFirst('D'));
 	PrintTreeNode(root.SearchBreadthFirst('J'));
 	PrintTreeNode(root.SearchBreadthFirst('X'));
-
-	getchar();
 }
