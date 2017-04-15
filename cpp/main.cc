@@ -4,7 +4,7 @@
 #include "trees.h"
 
 int main() {
-	LinkedListsMain();
+	LinkedListMain();
 	TreesMain();
 	
 	printf("Press ENTER to exit.\n");
